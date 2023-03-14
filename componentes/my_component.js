@@ -1,7 +1,10 @@
-export default{
+export  default{
+
     data(){
         return{
-            mensaje: "Hello world"
+            Basico: `<strong style="color:green;">Apolo</strong>`,
+            Intermedio:`<strong style="color:orange;">Artemis</strong>`,
+            Avanzado:`<strong style="color:blue;">sputnik</strong>`
         }
     }
 }
