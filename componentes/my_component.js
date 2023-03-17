@@ -2,7 +2,7 @@ export  default{
 
     data(){
         return{
-            mensaje: "lorem"
+            centinela: false
         }
     }
 }
