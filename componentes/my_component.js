@@ -2,10 +2,13 @@ export  default{
 
     data(){
         return{
-            imagen:{
-            src:"Screenshot_48.png",
-            title:"Diferencias entre V2 y V3"
-            }  
+            className:"box",
+            className2:["box","box2"],
+            className3:{
+                box:true,
+                box2:false,
+                box3:true
+            }
         }    
     }
 }
