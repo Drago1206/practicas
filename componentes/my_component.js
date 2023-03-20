@@ -2,11 +2,8 @@ export  default{
 
     data(){
         return{
-            lista:["Apolo",
-                "Artemis",
-                "Sputnik",
-                ]
-            
+            imagen:"Screenshot_48.png",
+            texto:"Diferencias entre V2 y V3"
         }
     }
 }
